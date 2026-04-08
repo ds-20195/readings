@@ -6,7 +6,7 @@ required: James Scott, *Seeing Like a Sate*, Introduction **and** Melissa Nobles
 
 required: Ian Hacking, *Making up people*
 
-recommended: Ian Hacking, *Private amateurs, secret bureaucrats*
+recommended: Ian Hacking, *Public amateurs, secret bureaucrats*
 
 ## Week 3 
 
