@@ -17,3 +17,8 @@ Please read 105-120 (surveying) and 134-147 (water and international boundaries)
 
 required: Enrico Moretti, *The New Geography of Jobs*, Chapter 5 - "The inequality of mobility and cost of living"
 
+## Week 5
+
+required: Kieran Healy, *Last Best Gifts*, Chapter 6 - "Managing Gifts, Making Markets"
+
+recommended: Kieran Healy, *Last Best Gifts*, Chapter 1 - "Exchange in Human Goods"
