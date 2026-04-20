@@ -22,3 +22,7 @@ required: Enrico Moretti, *The New Geography of Jobs*, Chapter 5 - "The inequali
 required: Kieran Healy, *Last Best Gifts*, Chapter 6 - "Managing Gifts, Making Markets"
 
 recommended: Kieran Healy, *Last Best Gifts*, Chapter 1 - "Exchange in Human Goods"
+
+## Week 6
+
+required: Donald Shoup, *The High Cost of Free Parking*, Chapter 1 - "The Twenty-first Century Parking Problem"
