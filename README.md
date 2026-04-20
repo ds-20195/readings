@@ -1,6 +1,7 @@
 ## Week 1
 
-required: James Scott, *Seeing Like a State*, Introduction **and** Melissa Nobles, *Shades of Citizenship*, Chapter 1 - "Race, Censuses, and Citizenship"
+required: James Scott, *Seeing Like a State*, Introduction <br>
+**and** Melissa Nobles, *Shades of Citizenship*, Chapter 1 - "Race, Censuses, and Citizenship"
 
 ## Week 2
 
