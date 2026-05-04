@@ -27,3 +27,10 @@ recommended: Kieran Healy, *Last Best Gifts*, Chapter 1 - "Exchange in Human Goo
 ## Week 6
 
 required: Donald Shoup, *The High Cost of Free Parking*, Chapter 1 - "The Twenty-first Century Parking Problem"
+
+## Week 7
+
+required: Elizabeth Hinton, *From the War on Poverty to the War on Crime*, Chapter 8 - "Crime Control as Urban Policy"
+
+recommended:  Ruth Wilson Gilmore, *Golden Gulag*, Introduction<br>
+**and** Kristian Lum and William Isaac, "To predict and serve"
