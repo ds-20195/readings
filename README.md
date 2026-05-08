@@ -28,6 +28,8 @@ recommended: Kieran Healy, *Last Best Gifts*, Chapter 1 - "Exchange in Human Goo
 
 required: Donald Shoup, *The High Cost of Free Parking*, Chapter 1 - "The Twenty-first Century Parking Problem"
 
+recommended: Kenneth Jackson, *Crabgrass Empire*, Chapter 2 - "The Transportation Revolution and the Erosion of the Walking City"
+
 ## Week 7
 
 required: Elizabeth Hinton, *From the War on Poverty to the War on Crime*, Chapter 8 - "Crime Control as Urban Policy"
@@ -39,4 +41,5 @@ recommended:  Ruth Wilson Gilmore, *Golden Gulag*, Introduction<br>
 
 required: Kenneth Jackson, *Crabgrass Frontier*, Chapter 11 - "Federal Subsidy and the Suburban Dream: How Washington Changed the American Housing Market"
 
-recommended:  Kenneth Jackson, *Crabgrass Frontier*, Intro+Ch 1 - "Suburbs as Slums"
+recommended:  Kenneth Jackson, *Crabgrass Frontier*, Intro+Ch 1 - "Suburbs as Slums"<br>
+**and** Friedrich Engels, *The Housign Question*, Part 2 - "How the Bourgeoisie Solves the Housing Question"
