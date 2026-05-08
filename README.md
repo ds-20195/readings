@@ -11,12 +11,12 @@ recommended: Ian Hacking, *The taming of chance*, Chapter 3 - "[Public amateurs,
 
 ## Week 3 
 
-required: Mark Monmonier, *Drawing the Line*, Chapter 4 - "Boundary Litigation and the Map as Evidence." 
+required: Mark Monmonier, *Drawing the Line*, Chapter 4 - "[Boundary Litigation and the Map as Evidence](https://github.com/ds-20195/readings/blob/main/Monmonier-Drawing-Ch4.pdf)." 
 Please read 105-120 (surveying) and 134-147 (water and international boundaries). 
 
 ## Week 4
 
-required: Enrico Moretti, *The New Geography of Jobs*, Chapter 5 - "The inequality of mobility and cost of living"
+required: Enrico Moretti, *The New Geography of Jobs*, Chapter 5 - "[The inequality of mobility and cost of living](https://github.com/ds-20195/readings/blob/main/Moretti-GeoJobs-Ch5.pdf)"
 
 ## Week 5
 
