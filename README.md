@@ -42,4 +42,4 @@ recommended:  Ruth Wilson Gilmore, *Golden Gulag*, Introduction<br>
 required: Kenneth Jackson, *Crabgrass Frontier*, Chapter 11 - "Federal Subsidy and the Suburban Dream: How Washington Changed the American Housing Market"
 
 recommended:  Kenneth Jackson, *Crabgrass Frontier*, Intro+Ch 1 - "Suburbs as Slums"<br>
-**and** Friedrich Engels, *The Housign Question*, Part 2 - "How the Bourgeoisie Solves the Housing Question"
+**and** Friedrich Engels, *The Housing Question*, Part 2 - "How the Bourgeoisie Solves the Housing Question"
