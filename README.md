@@ -5,9 +5,9 @@ required: James Scott, *Seeing Like a State*, Introduction <br>
 
 ## Week 2
 
-required: Ian Hacking, *Making up people*
+required: Ian Hacking, *[Making up people](https://github.com/ds-20195/readings/blob/main/Hacking-MUP.pdf)*
 
-recommended: Ian Hacking, *The taming of chance*, Chapter 3 - "Public amateurs, secret bureaucrats"
+recommended: Ian Hacking, *The taming of chance*, Chapter 3 - "[Public amateurs, secret bureaucrats](https://github.com/ds-20195/readings/blob/main/Hacking-PublicAmateursSecretBureaucrats.pdf)"
 
 ## Week 3 
 
@@ -22,7 +22,7 @@ required: Enrico Moretti, *The New Geography of Jobs*, Chapter 5 - "The inequali
 
 required: Kieran Healy, *Last Best Gifts*, Chapter 6 - "Managing Gifts, Making Markets"
 
-recommended: Kieran Healy, *Last Best Gifts*, Chapter 1 - "Exchange in Human Goods"
+recommended: Kieran Healy, *Last Best Gifts*, Chapter 1 - "[Exchange in Human Goods](https://github.com/ds-20195/readings/blob/main/Healy-LastBestGifts-Ch1.pdf)"
 
 ## Week 6
 
@@ -34,12 +34,13 @@ recommended: Kenneth Jackson, *Crabgrass Frontier*, Chapter 2 - "The Transportat
 
 required: Elizabeth Hinton, *From the War on Poverty to the War on Crime*, Chapter 8 - "Crime Control as Urban Policy"
 
-recommended:  Ruth Wilson Gilmore, *Golden Gulag*, Introduction<br>
+recommended:  Ruth Wilson Gilmore, *Golden Gulag*, [Introduction](https://github.com/ds-20195/readings/blob/main/Gilmore-Intro.pdf)<br>
 **and** Kristian Lum and William Isaac, "To predict and serve"
 
 ## Week 8
 
 required: Kenneth Jackson, *Crabgrass Frontier*, Chapter 11 - "Federal Subsidy and the Suburban Dream: How Washington Changed the American Housing Market"
 
-recommended:  Kenneth Jackson, *Crabgrass Frontier*, Intro+Ch 1 - "Suburbs as Slums"<br>
+recommended:  Matthew Desmond, "[Eviction and the Reproduction of Urban Poverty](https://github.com/ds-20195/readings/blob/main/Desmond-EvictionReproductionUrban-2012.pdf)"<br>
+Kenneth Jackson, *Crabgrass Frontier*, Intro+Ch 1 - "Suburbs as Slums"<br>
 **and** Friedrich Engels, *The Housing Question*, Part 2 - "How the Bourgeoisie Solves the Housing Question"
