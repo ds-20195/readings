@@ -28,7 +28,7 @@ recommended: Kieran Healy, *Last Best Gifts*, Chapter 1 - "Exchange in Human Goo
 
 required: Donald Shoup, *The High Cost of Free Parking*, Chapter 1 - "The Twenty-first Century Parking Problem"
 
-recommended: Kenneth Jackson, *Crabgrass Empire*, Chapter 2 - "The Transportation Revolution and the Erosion of the Walking City"
+recommended: Kenneth Jackson, *Crabgrass Frontier*, Chapter 2 - "The Transportation Revolution and the Erosion of the Walking City"
 
 ## Week 7
 
