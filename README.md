@@ -1,7 +1,7 @@
 ## Week 1
 
-required: James Scott, *Seeing Like a State*, Introduction <br>
-**and** Melissa Nobles, *Shades of Citizenship*, Chapter 1 - "Race, Censuses, and Citizenship"
+required: James Scott, *Seeing Like a State*, [Introduction](https://github.com/ds-20195/readings/blob/main/Scott-Seeing-Intro.pdf) <br>
+**and** Melissa Nobles, *Shades of Citizenship*, Chapter 1 - "[Race, Censuses, and Citizenship](https://github.com/ds-20195/readings/blob/main/Nobles-Shades-Ch1.pdf)"
 
 ## Week 2
 
