@@ -34,3 +34,9 @@ required: Elizabeth Hinton, *From the War on Poverty to the War on Crime*, Chapt
 
 recommended:  Ruth Wilson Gilmore, *Golden Gulag*, Introduction<br>
 **and** Kristian Lum and William Isaac, "To predict and serve"
+
+## Week 8
+
+required: Kenneth Jackson, *Crabgrass Frontier*, Chapter 11 - "Federal Subsidy and the Suburban Dream: How Washington Changed the American Housing Market"
+
+recommended:  Kenneth Jackson, *Crabgrass Frontier*, Intro+Ch 1 - "Suburbs as Slums"
