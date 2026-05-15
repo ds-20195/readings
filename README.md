@@ -46,3 +46,10 @@ required: Kenneth Jackson, *Crabgrass Frontier*, Chapter 11 - "[Federal Subsidy 
 recommended:  Matthew Desmond, "[Eviction and the Reproduction of Urban Poverty](https://github.com/ds-20195/readings/blob/main/Desmond-EvictionReproductionUrban-2012.pdf)"<br>
 Kenneth Jackson, *Crabgrass Frontier*, Intro+Ch 1 - "[Suburbs as Slums](https://github.com/ds-20195/readings/blob/main/Jackson-Crabgrass-IntroCh1.pdf)"<br>
 **and** Friedrich Engels, *The Housing Question*, Part 2 - "[How the Bourgeoisie Solves the Housing Question](https://github.com/ds-20195/readings/blob/main/Engels-HousingQuestion.pdf)"
+
+## Week 9
+
+required: Jane Jacobs, *The Death and Life of Great American Cities*, Chapter 6 - "The Uses of City Neighborhoods"
+
+recommended:  [An Extremely Detailed Guide to an Extremely Detailed Map of New York City Neighborhoods](https://www.nytimes.com/interactive/2023/10/29/upshot/new-york-neighborhood-guide.html)<br>
+**and** Garrett Dash Nelson, "The Elusive Geography of Communities" (12 pages)
