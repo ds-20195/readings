@@ -49,7 +49,7 @@ Kenneth Jackson, *Crabgrass Frontier*, Intro+Ch 1 - "[Suburbs as Slums](https://
 
 ## Week 9
 
-required: Jane Jacobs, *The Death and Life of Great American Cities*, Chapter 6 - "The Uses of City Neighborhoods"
+required: Jane Jacobs, *The Death and Life of Great American Cities*, Chapter 6 - "[The Uses of City Neighborhoods](https://github.com/ds-20195/readings/blob/main/Jacobs-DeathLife-Ch6.pdf)"
 
 recommended:  [An Extremely Detailed Guide to an Extremely Detailed Map of New York City Neighborhoods](https://www.nytimes.com/interactive/2023/10/29/upshot/new-york-neighborhood-guide.html)<br>
-**and** Garrett Dash Nelson, "The Elusive Geography of Communities" (12 pages)
+**and** Garrett Dash Nelson, "[The Elusive Geography of Communities](https://github.com/ds-20195/readings/blob/main/Nelson-PolGeom-Ch11.pdf)"
